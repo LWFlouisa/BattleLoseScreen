@@ -2,7 +2,7 @@
 For games where you don't just want a game over, you want each lost battle to be a diferent story branch.
 
 ~~~
-Démérite De Bataille / Sento no demeritto / Zobunsakugen
+Zobunsakugen
 You've been taken through the rafters! Your life vessles are now legally forfeit.
 
 HP: 30 => 13
