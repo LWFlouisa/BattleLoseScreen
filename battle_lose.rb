@@ -53,7 +53,6 @@ def matawa_float(already_done)
 end
 
 def batailledemeritto # Demeritobataye
-  system("clear")
   
   puts "Démérite De Bataille / Sento no demeritto"
   puts "You've been taken through the rafters! Your life vessles are now legally forfeit."
